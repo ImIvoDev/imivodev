@@ -3,5 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" href="https://www.youtube.com/channel/UC7q1FXge-Cm84enB-eHjqRg"/>
+  <a href="https://www.youtube.com/channel/UC7q1FXge-Cm84enB-eHjqRg")>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
