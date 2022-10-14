@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I am Ivo, people call me Ayce, I'm studing Software Engineer at [Da Vinci College](https://davincicollege.nl/). I love to learn and code new and awesome things!
+I am Ivo, people call me Ayce, I'm studing Software Engineer at [Da Vinci College](https://www.davinci.nl/). I love to learn and code new and awesome things!
 
 ## ⚡ Technologies
 
