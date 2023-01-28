@@ -21,4 +21,5 @@ First class Software Development Student @ ROC Da Vinci College Dordrecht
 <a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="VueJS Icon" width="25" height="25">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="CSharp Icon" width="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" alt="CPlusPlus Icon" width="25" height="25">
 </a>
