@@ -1,1 +1,1 @@
-##  ![ImIvo Logo Image](https://i.imgur.com/EUGiP1H.png) ImIvo.dev | [Website](https://imivo.dev)</font>
+##  ![ImIvo Logo Image](https://i.imgur.com/EUGiP1H.png) Im<span style="background: -webkit-linear-gradient(#f70000, #fd5b00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Ivo</span>.dev | [Website](https://imivo.dev)</font>
