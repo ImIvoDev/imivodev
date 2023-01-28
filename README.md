@@ -1,1 +1,1 @@
-![ImIvo Logo Image](https://imivo.dev/assets/images/icon.png)
+![ImIvo Logo Image](https://i.imgur.com/tipMdIH.png)
